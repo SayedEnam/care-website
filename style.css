@@ -1,0 +1,31 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.padding{
+    padding-left: 10%;
+}
+.gray{
+    background-color: #264653;
+}
+.grayscale{
+    filter: grayscale(100%);
+}
+.button-orange{
+    border: 1px solid #E76F51;
+    color: white;
+    background-color: #E76F51;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: 500;
+}
+.button-orange:hover{
+    background-color: white;
+    color: #E76F51;
+}
+.client-card img{
+    width: 149px;
+}
+.orange{
+    color: orange;
+}
