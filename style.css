@@ -50,10 +50,14 @@
 }
 .upcome{
     border-radius: 20px;
-    margin-top: 50p;
+    margin-top: 50px;
 }
-.bg-custom{
-    background-color: rgba(243, 3, 3, 0.568);
+.custom{
+    
     box-shadow: 10px 10px 5px gray;
 
+}
+.hr-style{
+    line-height: 5px;
+    color: yellowgreen;
 }
